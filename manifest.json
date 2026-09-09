@@ -1,0 +1,123 @@
+{
+  "version": "1.0.0",
+  "documents": [
+    {
+      "id": "slase",
+      "name": "ሰይፈ ሥላሴ",
+      "days": [
+        {
+          "id": "daily",
+          "name": "Daily",
+          "version": "1.0.0",
+          "fileName": "daily.pdf",
+          "pdf": "./documents/seyfeSlase/daily.pdf"
+        },
+        {
+          "id": "monday",
+          "name": "Monday",
+          "version": "1.0.0",
+          "fileName": "monday.pdf",
+          "pdf": "./documents/seyfeSlase/monday.pdf"
+        },
+        {
+          "id": "tuesday",
+          "name": "Tuesday",
+          "version": "1.0.0",
+          "fileName": "tuesday.pdf",
+          "pdf": "./documents/seyfeSlase/tuesday.pdf"
+        },
+        {
+          "id": "wednesday",
+          "name": "Wednesday",
+          "version": "1.0.0",
+          "fileName": "wednesday.pdf",
+          "pdf": "./documents/seyfeSlase/wednesday.pdf"
+        },
+        {
+          "id": "thursday",
+          "name": "Thursday",
+          "version": "1.0.0",
+          "fileName": "thursday.pdf",
+          "pdf": "./documents/seyfeSlase/thursday.pdf"
+        },
+        {
+          "id": "friday",
+          "name": "Friday",
+          "version": "1.0.0",
+          "fileName": "friday.pdf",
+          "pdf": "./documents/seyfeSlase/friday.pdf"
+        },
+        {
+          "id": "saturday",
+          "name": "Saturday",
+          "version": "1.0.0",
+          "fileName": "saturday.pdf",
+          "pdf": "./documents/seyfeSlase/saturday.pdf"
+        },
+        {
+          "id": "sunday",
+          "name": "Sunday",
+          "version": "1.0.0",
+          "fileName": "sunday.pdf",
+          "pdf": "./documents/seyfeSlase/sunday.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hlina",
+      "name": "የህሊና ጸሎት",
+      "version": "1.0.0",
+      "fileName": "yehlinaTselot.pdf",
+      "pdf": "./documents/hlina/yehlinaTselot.pdf"
+    },
+
+    {
+      "id": "melka",
+      "name": "መልክዐ ቅዱሳን",
+      "days": [
+        {
+          "id": "melkaSlase",
+          "name": "መልክአ ሥላሴ",
+          "version": "1.0.0",
+          "fileName": "melkaSlase.pdf",
+          "pdf": "./documents/melka/melkaSlase.pdf"
+        },
+        {
+          "id": "maryam",
+          "name": "መልክአ ማርያም",
+          "version": "1.0.0",
+          "fileName": "melkaMaryam.pdf",
+          "pdf": "./documents/melka/melkaMaryam.pdf"
+        },
+        {
+          "id": "eyesus",
+          "name": "መልክአ ኢየሱስ",
+          "version": "1.0.0",
+          "fileName": "melkaEyesus.pdf",
+          "pdf": "./documents/melka/melkaEyesus.pdf"
+        },
+        {
+          "id": "rufael",
+          "name": "መልክአ ሩፋኤል",
+          "version": "1.0.0",
+          "fileName": "rufael.pdf",
+          "pdf": "./documents/melka/melkaRufael.pdf"
+        },
+        {
+          "id": "medhanialem",
+          "name": "መልክአ መድኃኔዓለም",
+          "version": "1.0.0",
+          "fileName": "melkaMedhanialem.pdf",
+          "pdf": "./documents/melka/melkaMedhanialem.pdf"
+        },
+        {
+          "id": "arsema",
+          "name": "መልክአ አርሴማ",
+          "version": "1.0.0",
+          "fileName": "melkaArsema.pdf",
+          "pdf": "./documents/melka/melkaArsema.pdf"
+        }
+      ]
+    }
+  ]
+}
