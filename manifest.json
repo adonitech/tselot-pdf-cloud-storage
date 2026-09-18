@@ -116,6 +116,13 @@
           "version": "1.0.0",
           "fileName": "melkaArsema.pdf",
           "pdf": "./documents/melka/melkaArsema.pdf"
+        },
+        {
+          "id": "mezmure",
+          "name": "መዝሙር 22,39 & 90",
+          "version": "1.0.0",
+          "fileName": "Mezmure22,39,90.pdf",
+          "pdf": "./documents/melka/mezmure22,39,90.pdf"
         }
       ]
     }
